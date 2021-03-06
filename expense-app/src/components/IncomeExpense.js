@@ -32,7 +32,7 @@ export const IncomeExpense = () => {
             <h2> INCOME <br /> {income}  </h2>
 
             <h2>
-                EXPENSE <br /> {expense}
+                EXPENSE  Expenses <br /> {expense}
             </h2>
         
             
